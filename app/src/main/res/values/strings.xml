@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="rating"></string>
+    <string name="release_date">RELEASE_DATE</string>
+    <string name="language">LANGUAGE</string>
+    <string name="title_tv">Title</string>
+    <string name="rating_tv">Rating:</string>
+    <string name="release_date_tv">Release Date</string>
+    <string name="language_tv">Language</string>
+    <string name="synopsis_tv">Synopsis</string>
+    <string name="original_title"></string>
+    <string name="no_interet">No Internet Connection</string>
+    <string name="wait">Please wait...</string>
+    <string name="unable">Unable to fetch JSON data</string>
+    <string name="results">results</string>
+    <string name="votecount">vote_count</string>
+    <string name="id">id</string>
+    <string name="video">video</string>
+    <string name="voteaverage">vote_average</string>
+    <string name="title">title</string>
+    <string name="popularity">popularity</string>
+    <string name="posterpath">poster_path</string>
+    <string name="originallanguage">original_language</string>
+    <string name="originaltitle">original_title</string>
+    <string name="bckdrop">backdrop_path</string>
+    <string name="adult">adult</string>
+    <string name="overview">overview</string>
+    <string name="releasedate">release_date</string>
+</resources>
